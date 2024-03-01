@@ -10,8 +10,8 @@ export const MainESP = () => {
                 </p>
                 <p><br/></p>
                 <p className="font-semibold text-[#c03434] px-10">
-                    El score tiene un rango de cero (es menos probable tener un "crash" y altos niveles de actividad) a 100 
-                    (más probable tener un "crash" y bajos niveles de actividad)
+                    El score tiene un rango de cero (es menos probable tener un &quot;crash&quot; y altos niveles de actividad) a 100 
+                    (más probable tener un &quot;crash&quot; y bajos niveles de actividad)
                     <br/>
                     Atención: El score se encuentra en un estado de continuo desarrollo, por lo que su precisión en este momento puede ser baja. 
                     En caso de comentarios y sugerencias, considere dejar una reseña en el siguiente 
