@@ -10,11 +10,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Forecasting long COVID crashes and activity',
     description: 'Forecasting long COVID crashes and activity',
-    url: 'https://tlahui.vercel.app/',
+    url: 'https://longcovid-crash-forecast.vercel.app/',
     siteName: 'long-COVID activity forecast',
     images: [
       {
-        url: 'https://tlahui.vercel.app/social-media-image.jpg', // Must be an absolute URL
+        url: 'https://longcovid-crash-forecast.vercel.app/social-image.jpg', // Must be an absolute URL
         width: 640,
         height: 427,
       }]
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     title: 'Forecasting long COVID crashes and activity',
     description: 'Forecasting long COVID crashes and activity',
     images: [{
-      url: 'https://tlahui.vercel.app/social-media-image.jpg', // Must be an absolute URL
+      url: 'https://longcovid-crash-forecast.vercel.app/social-image.jpg', // Must be an absolute URL
       width: 640,
       height: 427,
     }]
